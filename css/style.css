@@ -1,0 +1,159 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #F4F7FB;
+}
+.text-center{
+    text-align: center;
+}
+.w-100{
+    width: 100%;
+}
+.w-50{
+    width: 50%;
+}
+.float-left{
+    float: left;
+}
+.clear-fix{
+    clear: both;
+} 
+
+
+body h2{
+    color: #18487B;
+    padding:15px ;
+   
+}
+
+
+.container{
+    width: 90%;
+    border-radius: 40px;
+    margin: 10px auto;
+      background-color:white;
+      padding: 20px;
+
+}
+.line{
+    width: 98%;
+    height:3px ;
+    background-color: #18487B;
+    margin: auto;
+}
+.span{
+    color: #18487B;
+}
+/* Header section */
+body header h2{
+    color: white;}
+
+.header-contact{
+    text-align: center;
+    background-color:#18487B ;
+    color: white;
+    padding: 20px 40px;
+}
+.header-contact button{
+    padding: 15px;
+    border-radius: 40px;
+    border:1px;
+    background-color: #2A5685;
+    color: white;
+}
+a{
+      text-decoration: none;
+      color: white;
+}
+/* About section */
+.profile-photo{
+    width: 25%;
+    border-radius: 50%;
+    border:2px solid #E8F4FF ;
+    padding:2px;
+    margin:20px 10px  ;
+}
+.about-contact{
+    width: 75%;
+  padding: 30px ;
+ 
+}
+.about-contact button{
+    padding:15px;
+    border-radius: 15px;
+    background-color: #18487B;
+    color: white;
+    border: none;
+
+}
+
+/* Skills sec */
+.box{
+    width: 100%;
+    height: 20px;
+}
+.inner{
+   padding: 40px;
+width: 25%;
+    padding:20px ;
+    border-radius: 30px;
+    background-color: #e1ebf1; 
+    border: 5px solid white;
+}
+
+
+/* Experience sec */
+.item1{
+    border-left: 3px solid #0B65AD ;
+    background-color:#F8FAFC ;
+    border-radius:20px ;
+    padding: 40px;
+    margin: 15px;
+
+}
+.item1 img{
+    width: 10%;
+    border: 2px solid #DBEAFE;
+border-radius: 20px;
+margin: 3px 8px 30px 3px;
+
+}
+/* Contact sec */
+body .container.contact h2{
+    color: white;
+}
+    
+
+.line2{
+    width: 98%;
+    height:3px ;
+    background-color:white;
+    margin: auto;
+}
+ .container.contact{
+    background-color: #18487B;
+    color: white;
+    
+ }
+ .container.contact p{
+    padding: 10px;
+ }
+
+ .container.contact button{
+     padding: 15px;
+    border-radius: 40px;
+    border:1px;
+    background-color: #2A5685;
+    color: white;
+ }
+/* footer */
+.container.footer{
+    background-color: #071A35;
+    color: white;
+    padding: 20px;
+
+}
+.container.footer span{
+    color: #6BBFFD;
+}
